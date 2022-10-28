@@ -1,0 +1,2 @@
+npm i @parcel/config-default three lil-gui gsap
+parcel index.html

@@ -1,0 +1,14 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins&display=swap');
+
+.playButton {
+  font-family: 'Poppins';
+  color: black;
+  font-size: 20px;
+  padding: 16px 30px;
+  background-color: #F7FFF7;
+  position: absolute;
+  top: 0;
+  left: 0;
+  cursor: pointer;
+  margin: 20px;
+}
